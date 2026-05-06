@@ -132,11 +132,15 @@ DB_PASSWORD=stockpilot
 
 The app also includes example settings for SQLite, MySQL, PostgreSQL, and SQL Server in `.env.example`.
 
-Manual MariaDB setup scripts are available in:
+Manual database setup scripts are available in:
 
 ```text
 database/install/maria_schema.sql
 database/install/sample_data.sql
+database/install/postgres_schema.sql
+database/install/postgres_sample_data.sql
+database/install/mssql_schema.sql
+database/install/mssql_sample_data.sql
 ```
 
 ## Main Screens And Workflows
