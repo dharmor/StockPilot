@@ -39,7 +39,7 @@ StockPilot is useful for small warehouses, service shops, repair teams, stock ro
 - CSV product export.
 - CSV product import.
 - Sample seed data for quick testing.
-- MariaDB schema and sample data scripts in `sql_script/`.
+- MariaDB schema and sample data scripts in `database/install/`.
 - React/Vite frontend assets served through Laravel.
 
 ## Requirements
@@ -135,8 +135,8 @@ The app also includes example settings for SQLite, MySQL, PostgreSQL, and SQL Se
 Manual MariaDB setup scripts are available in:
 
 ```text
-sql_script/maria_schema.sql
-sql_script/sample_data.sql
+database/install/maria_schema.sql
+database/install/sample_data.sql
 ```
 
 ## Main Screens And Workflows
