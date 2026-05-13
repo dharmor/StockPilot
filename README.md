@@ -13,7 +13,7 @@ StockPilot helps you see what you have in stock, where it is stored, when it was
 
 Typical uses include:
 
-- Track products by SKU, barcode, category, brand, supplier, and unit of measure.
+- Track products by SKU, category, brand, supplier, and unit of measure.
 - Monitor quantity on hand, reserved stock, available stock, cost, sale price, and reorder points.
 - See low-stock products and suggested reorder quantities.
 - Record stock receipts, issues, adjustments, and transfers between locations.
